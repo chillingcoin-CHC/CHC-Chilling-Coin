@@ -4,6 +4,6 @@
     { "src": "api/circulating-supply.js", "use": "@vercel/node" }
   ],
   "routes": [
-    { "src": "/circulating-supply", "dest": "/api/circulating-supply.js" }
-  ]
+    { "src": "/circulating-supply", "dest": "/api/circulating-supply.js"}
+]
 }
